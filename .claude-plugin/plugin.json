@@ -1,0 +1,8 @@
+{
+  "name": "career-switch-north-star",
+  "version": "1.0.0",
+  "description": "Set a realistic 1-year job-switch north star from your resume and pay, research market comp, shortlist matching jobs, tailor applications, and apply with per-job approval.",
+  "author": { "name": "Shashank" },
+  "license": "MIT",
+  "keywords": ["career", "job-search", "resume", "salary", "skill"]
+}

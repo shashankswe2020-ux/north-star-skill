@@ -1,0 +1,12 @@
+{
+  "name": "north-star-skill",
+  "owner": { "name": "Shashank" },
+  "plugins": [
+    {
+      "name": "career-switch-north-star",
+      "source": "./",
+      "description": "Plan your next job switch: north-star target, comp research, job shortlist, tailored applications with per-job approval.",
+      "version": "1.0.0"
+    }
+  ]
+}
