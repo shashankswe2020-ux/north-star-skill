@@ -18,18 +18,18 @@ Hand Claude your resume and current pay. It sets a realistic **1-year "north sta
 
 ### Claude Code (plugin)
 ```
-/plugin marketplace add OWNER/north-star-skill
+/plugin marketplace add shashankswe2020-ux/north-star-skill
 /plugin install career-switch-north-star@north-star-skill
 ```
 
 ### Claude Code (manual)
 ```bash
-git clone https://github.com/OWNER/north-star-skill
+git clone https://github.com/shashankswe2020-ux/north-star-skill
 cp -r north-star-skill/skills/career-switch-north-star ~/.claude/skills/
 ```
 
 ### Claude app (claude.ai / desktop)
-1. Download `career-switch-north-star.zip` from the [latest release](https://github.com/OWNER/north-star-skill/releases/latest).
+1. Download `career-switch-north-star.zip` from the [latest release](https://github.com/shashankswe2020-ux/north-star-skill/releases/latest).
 2. In Claude settings, open the Skills section and upload the zip.
 
 ### Claude API / Agent SDK
